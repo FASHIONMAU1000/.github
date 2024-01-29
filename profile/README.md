@@ -1,4 +1,8 @@
-## Hi there 👋
+# Our goal is to launch a fashion platform with over 1,000 active monthly users.
+
+## Team MAU1000
+
+
 
 <!--
 
